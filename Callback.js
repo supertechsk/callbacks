@@ -8,6 +8,6 @@ function x(y){
     y();
 
 }
-x(function y(){         // callback function passed in x fun. 
+x(function y(){         // callback function passed in x function.
     console.log("y") 
 });

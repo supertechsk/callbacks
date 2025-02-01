@@ -1,6 +1,6 @@
 //callback example
 setTimeout(function(){
-    console.log("timer")
+    console.log("Timer for five seconds")
 
 },5000);
 function x(y){
